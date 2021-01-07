@@ -4,6 +4,7 @@
  * @date 2020/12/5 1:30
  */
 
+ ///
 public abstract class AbstractFactory {
     /**
      * 获取Color
